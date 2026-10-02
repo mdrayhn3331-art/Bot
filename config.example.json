@@ -1,0 +1,20 @@
+{
+  "Author": "MOHAMMED RAYHAN",
+  "version": "3.0.0",
+  "language": "en",
+  "adminOnly": false,
+  "autoSent": true,
+  "allowInbox": true,
+  "DeveloperMode": false,
+  "autoCreateDB": true,
+  "autoClean": true,
+  "notiGroup": true,
+  "NOTIFICATION": true,
+  "EMAIL": "Facebook number/ID",
+  "PASSWORD": "Facebook password",
+  "OTPKEY": "Facebook 2FA Secret Key",
+  "BOTNAME": "𝐌𝐎𝐇𝐀𝐌𝐌𝐄𝐃 𝐑𝐀𝐘𝐇𝐀𝐍 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+  "PREFIX": "/",
+  "usePrefix": false,
+  "APPSTATEPATH": "appstate.json"
+}
